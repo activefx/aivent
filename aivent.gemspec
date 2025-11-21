@@ -35,5 +35,7 @@ Gem::Specification.new do |spec|
 
   # Uncomment to register a new dependency of your gem
   spec.add_dependency "activesupport"
+  spec.add_dependency "dspy"
+  spec.add_dependency "dspy-openai"
   spec.add_dependency "zeitwerk"
 end
