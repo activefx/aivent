@@ -24,29 +24,6 @@ gem install UPDATE_WITH_YOUR_GEM_NAME_IMMEDIATELY_AFTER_RELEASE_TO_RUBYGEMS_ORG
 
 TODO: Write usage instructions here
 
-## Prior Art
-
-* [Attrify](https://github.com/HectorMF/attrify) - Variant API for Ruby components
-* [Class Variants](https://github.com/avo-hq/class_variants) - Configure styles and apply them as classes
-* [Classlist](https://github.com/substancelab/classlist) - Serverside manipulation of CSS class lists
-* [Classy::Yaml](https://github.com/Tonksthebear/classy-yaml) - Rails helper to allow yaml configurations for utility css frameworks
-* [Exhaust Pipe](https://github.com/RowanMcDonald/exhaust_pipe) - Helper library for managing tailwind class lists
-* [FoxTail](https://github.com/jefawks3/fox_tail) - Rails View Components built with Flowbite and Tailwind CSS
-* [Primer ViewComponents](https://github.com/primer/view_components) - ViewComponents for the Github Primer Design System
-* [Rustywind::Ruby](https://github.com/markahesketh/rustywind-ruby) - Ruby wrapper for rustywind, a CLI utility for sorting Tailwind CSS classes
-* [Styler](https://github.com/bhserna/styler) - Tool for styling html by composing css utility classes
-* [TailMerge](https://github.com/abuisman/tail_merge) - Fast Ruby gem for mergine Tailwindcss class lists
-* [Tailmix](https://github.com/alexander-s-f/tailmix) - Declarative engine for managing HTML attributes in Ruby UI components
-* [Tailor](https://github.com/nolantait/tailor) - Tailor your utility based css classes into your components
-* [Tailwind Sorter](https://github.com/NejRemeslnici/tailwind-sorter) - Ruby gem to sort Tailwind CSS classes
-* [Tailwind Theme](https://github.com/jefawks3/tailwind_theme) - DRY up your Tailwind CSS components by storing the css classnames in a single YAML file
-* [TailwindMerge](https://github.com/gjtorikian/tailwind_merge) - Utility function to efficiently merge Tailwind CSS classes without style conflicts
-* [UtilityClasses](https://github.com/dickdavis/utility_classes) - Rails gem that facilitates the use of utility CSS frameworks
-* [ViewComponentContrib](https://github.com/palkan/view_component-contrib) - Collection of extension and developer tools for ViewComponent
-
-prettier-plugin-tailwindcss - https://x.com/marcoroth_/status/1952569741974901161
-
-
 ## Development
 
 After checking out the repo, run `bin/setup` to install dependencies. Then, run `rake test` to run the tests. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
